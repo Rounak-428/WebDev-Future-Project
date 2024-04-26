@@ -1,0 +1,10 @@
+body{
+    background:black;
+}
+h1 ,h2{
+    color: aqua;
+    align-items: center;
+}
+ul .yoyo{
+    justify-content: left;
+}
